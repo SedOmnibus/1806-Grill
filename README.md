@@ -9,7 +9,7 @@ The 1806 Grill token is an ERC644 token on the Expanse blockchain.
  - Blockchain: Expanse
  - ICO Price: $0.01
  - ICO Duration: 6 months or until it sells out
- - ICO Target: 1250 EXP
+ - ICO Target: $2500
 
 # Contracts
 
@@ -39,9 +39,9 @@ The 1806 Grill token is an ERC644 token on the Expanse blockchain.
 
  1806 tokens are not listed on US stock exchanges, as they are issued by a sovereign tribal entity and are not under the jurisdiction of the US SEC. Any and all conflicts arising from this token sale are under the jurisdiction of the Northern Cheyenne tribal courts and parties therein.
 
- The purpose of this ICO Token Issue is to raise 1250 EXP for the development of a food stand that will sell burgers, hot dogs, and beverages to customers in its targeted market as well as demonstrate the viability of ICO platforms to successfully crowdfund tribal small business start up ventures in a live trial for public review and transparency.
+ The purpose of this ICO Token Issue is to raise $2500 for the development of a food stand that will sell burgers, hot dogs, and beverages to customers in its targeted market as well as demonstrate the viability of ICO platforms to successfully crowdfund tribal small business start up ventures in a live trial for public review and transparency.
 
- The purpose of this business plan is to raise 1250 EXP for the development of a burger stand while showcasing the expected monetary gain and operations over the next three years. 1806 Grill (‘‘the Company’’) is a reservation-based entity that will provide slider-style burgers, pulled pork, and beverages to customers in its targeted market. The Company was founded by Payu Harris.
+ The purpose of this business plan is to raise $2500 for the development of a burger stand while showcasing the expected monetary gain and operations over the next three years. 1806 Grill (‘‘the Company’’) is a reservation-based entity that will provide slider-style burgers, pulled pork, and beverages to customers in its targeted market. The Company was founded by Payu Harris.
 
  ## 1.1 The Services
  Our vision for 1806 is to operate a small pop up style slider food stand at various Native American Pow wows events. 1806 Grill will provide a selection of slider style burgers, pulled pork, and beverages.
