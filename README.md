@@ -39,7 +39,7 @@ The 1806 Grill token is an ERC644 token on the Expanse blockchain.
 
  1806 tokens are not listed on US stock exchanges, as they are issued by a sovereign tribal entity and are not under the jurisdiction of the US SEC. Any and all conflicts arising from this token sale are under the jurisdiction of the Northern Cheyenne tribal courts and parties therein.
 
- The purpose of this ICO Token Issue is to raise $4,500 for the development of a food stand that will sell burgers, hot dogs, and beverages to customers in its targeted market as well as demonstrate the viability of ICO platforms to successfully crowdfund tribal small business start up ventures in a live trial for public review and transparency.
+ The purpose of this ICO Token Issue is to raise 1250 EXP for the development of a food stand that will sell burgers, hot dogs, and beverages to customers in its targeted market as well as demonstrate the viability of ICO platforms to successfully crowdfund tribal small business start up ventures in a live trial for public review and transparency.
 
  The purpose of this business plan is to raise 1250 EXP for the development of a burger stand while showcasing the expected monetary gain and operations over the next three years. 1806 Grill (‘‘the Company’’) is a reservation-based entity that will provide slider-style burgers, pulled pork, and beverages to customers in its targeted market. The Company was founded by Payu Harris.
 
